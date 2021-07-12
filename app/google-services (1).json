@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043980788248",
+    "project_id": "examify-1fad2",
+    "storage_bucket": "examify-1fad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043980788248:android:6e14dccc5256b734d0196d",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043980788248-jjqqdg1vk2brukkglbvpt8l46hrn3624.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABj6Jg9C8RFnDybiIuV76FuZ_9T0c8gq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043980788248-jjqqdg1vk2brukkglbvpt8l46hrn3624.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
